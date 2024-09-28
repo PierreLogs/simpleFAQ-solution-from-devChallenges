@@ -10,5 +10,5 @@ This is a solution for the [DevChallenges](https://devchallenges.io) - simple FA
 
 ## Links
 
-- Solution code:
+- [Solution code](https://github.com/PierreLogs/simpleFAQ-solution-from-devChallenges)
 - Live Demo:
