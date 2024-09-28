@@ -11,4 +11,4 @@ This is a solution for the [DevChallenges](https://devchallenges.io) - simple FA
 ## Links
 
 - [Solution code](https://github.com/PierreLogs/simpleFAQ-solution-from-devChallenges)
-- Live Demo:
+- [Live Demo](https://pierrelogs.github.io/simpleFAQ-solution-from-devChallenges/)
